@@ -1,12 +1,12 @@
 # adaFirstRepo
 Primera git con ADA
 
-> Subtítulos
+> Subtítulos con (>)
 
 ** Texto descriptivo **
 
-# Título
+# Título con (#)
 
 *** Título lista desordenada ***
-- Item 1
+- Item 1 (Item lista con -)
 - Item 2
