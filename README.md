@@ -1,7 +1,7 @@
 # adaFirstRepo
 Primera git con ADA
 
-> Subtítulos con (>)
+** Subtítulos con **
 
 ** Texto descriptivo **
 
@@ -13,4 +13,4 @@ Primera git con ADA
 
 > Sintaxis para Readme
 
-// https://docs.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax
+> https://docs.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax
