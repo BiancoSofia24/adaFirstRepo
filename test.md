@@ -8,7 +8,7 @@ Linea 2 - Kari
 
 Linea 5 - kc
 
-Lìnea *1 - Extra 2
+Extra
 
 Git stash
 
