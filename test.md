@@ -1,4 +1,4 @@
-# Test
+﻿# Test
 
 > This is a test file
 
@@ -12,5 +12,6 @@ Linea 5 - kc
 
 Lìnea *1 - Extra 2
 
+Git stash
 
 
